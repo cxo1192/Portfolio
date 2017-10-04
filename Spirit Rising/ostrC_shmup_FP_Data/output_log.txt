@@ -1,0 +1,71 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\_schmup\ostrC_shmup_FP_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\_schmup\ostrC_shmup_FP_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\_schmup\ostrC_shmup_FP_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.870068 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.157474 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 0.150436 ms (FindLiveObjects: 0.016421 ms CreateObjectMapping: 0.011143 ms MarkObjects: 0.112314 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.189145 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.140466 ms (FindLiveObjects: 0.026685 ms CreateObjectMapping: 0.011729 ms MarkObjects: 0.091200 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.197649 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 702.
+Total: 0.893821 ms (FindLiveObjects: 0.067447 ms CreateObjectMapping: 0.019354 ms MarkObjects: 0.221402 ms  DeleteObjects: 0.584737 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.560691 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 702.
+Total: 0.268909 ms (FindLiveObjects: 0.045746 ms CreateObjectMapping: 0.020234 ms MarkObjects: 0.191491 ms  DeleteObjects: 0.011143 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.703503 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 702.
+Total: 0.281811 ms (FindLiveObjects: 0.033430 ms CreateObjectMapping: 0.020820 ms MarkObjects: 0.216710 ms  DeleteObjects: 0.010556 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.817870 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 702.
+Total: 0.236944 ms (FindLiveObjects: 0.039295 ms CreateObjectMapping: 0.018767 ms MarkObjects: 0.170084 ms  DeleteObjects: 0.008797 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.393832 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 2.749206 ms (FindLiveObjects: 0.018767 ms CreateObjectMapping: 0.012902 ms MarkObjects: 0.131668 ms  DeleteObjects: 2.585573 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d00 -> priority: 1 
